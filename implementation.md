@@ -516,20 +516,36 @@ supports a clean install. Summarize where the hosted prototype or <=3-min demo l
 Then verify a from-scratch install -> ingest -> query works. Stop and report.
 ```
 
+> **Packaging note (this machine, verified):** `README.md` is the front door — overview,
+> scope (HDFC AMC + the 5 schemes with links), the ingestion/query architecture, prerequisites,
+> setup, **run-once ingestion**, CLI + Streamlit usage, a configuration table, Render deploy
+> values, demo pointers, known limits, the `Prd.md` §9 disclaimer, a project map, and a
+> `Prd.md` §8 deliverables map. `data/sources.md` confirmed to list **exactly the 5 official
+> URLs**. `requirements.txt` is **frozen** to the locally verified versions: `requests==2.34.2`,
+> `beautifulsoup4==4.15.0`, `python-dotenv==1.2.4`, `chromadb==1.5.9`, `numpy==2.5.4`,
+> `transformers==4.46.3`, `tokenizers==0.20.3`, `streamlit==1.65.0`; `torch` is intentionally
+> unpinned (Render installs the CPU build from the PyTorch CPU index first). Verification:
+> `pip install --dry-run -r requirements.txt` resolves and `pip check` reports no broken
+> requirements; `python -m ingest.run --no-fetch` rebuilds 46/46; the CLI answers a factual
+> question with one citation and refuses an opinion question; `python -m tests.test_guardrails`
+> is 37/37. (Render's build performs the true from-scratch install.) Demo: the hosted prototype
+> is the Render Web Service; `sample_qa.md` is the recorded evidence (factual answer + citation
+> and a refusal).
+
 ---
 
 ## Cross-Phase Checklist
 
-- [ ] Same embedding model at ingestion and query (`all-MiniLM-L6-v2`, 384-dim).
-- [ ] ChromaDB persisted; ingestion runs once and survives restart.
-- [ ] Every factual answer has **exactly one** official citation.
-- [ ] Opinionated/portfolio questions refused with an educational link.
-- [ ] No PII accepted or stored.
-- [ ] No performance/return claims; link to official factsheet instead.
-- [ ] Answers ≤3 sentences with "Last updated from sources:".
-- [ ] Public sources only (AMC/SEBI/AMFI); no blogs or back-end screenshots.
-- [ ] `artifacts/chunks.txt` inspectable.
-- [ ] Deliverables from `Prd.md` §8 all present.
+- [x] Same embedding model at ingestion and query (`all-MiniLM-L6-v2`, 384-dim).
+- [x] ChromaDB persisted; ingestion runs once and survives restart.
+- [x] Every factual answer has **exactly one** official citation.
+- [x] Opinionated/portfolio questions refused with an educational link.
+- [x] No PII accepted or stored.
+- [x] No performance/return claims; link to official factsheet instead.
+- [x] Answers ≤3 sentences with "Last updated from sources:".
+- [x] Public sources only (AMC/SEBI/AMFI); no blogs or back-end screenshots.
+- [x] `artifacts/chunks.txt` inspectable.
+- [x] Deliverables from `Prd.md` §8 all present.
 
 ## Deliverables Traceability
 

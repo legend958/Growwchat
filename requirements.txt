@@ -1,11 +1,11 @@
-# Mutual Fund FAQ RAG chatbot — dependencies
+# Mutual Fund FAQ RAG chatbot — dependencies (frozen 2026-10-12)
 
-requests
-beautifulsoup4
-python-dotenv
+requests==2.34.2
+beautifulsoup4==4.15.0
+python-dotenv==1.2.4
 
 # Vector store (Phase 3+)
-chromadb
+chromadb==1.5.9
 
 # Embedding (Phase 3+)
 # NOTE: `sentence-transformers` is NOT used because this machine's Windows
@@ -14,10 +14,13 @@ chromadb
 # HF model, sentence-transformers/all-MiniLM-L6-v2, via transformers+torch
 # directly (see ingest/embed.py). transformers is pinned to 4.x because the
 # 5.x line imports scikit-learn for every model class.
+# `torch` is intentionally unpinned: on Render the CPU build is installed
+# first from https://download.pytorch.org/whl/cpu (see README build command),
+# and this line is then already satisfied.
 torch
 transformers==4.46.3
 tokenizers==0.20.3
-numpy
+numpy==2.5.4
 
 # UI (Phase 7) — Streamlit app
 streamlit==1.65.0
