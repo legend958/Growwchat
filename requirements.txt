@@ -19,5 +19,8 @@ transformers==4.46.3
 tokenizers==0.20.3
 numpy
 
+# UI (Phase 7) — Streamlit app
+streamlit==1.65.0
+
 # LLM (Phase 5) — Groq, OpenAI-compatible REST API, called via `requests`
 # (already a dependency) — no extra SDK needed. API key: GROQ_API_KEY in .env.
