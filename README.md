@@ -165,7 +165,7 @@ ships inside the image.
 
 ## Demo
 
-- **Hosted prototype:** `https://<your-service>.onrender.com` — Streamlit UI on Render.
+- **Hosted prototype:** https://growwchat.onrender.com/ — Streamlit UI on Render.
 - **Local:** `streamlit run ui/app.py` → http://localhost:8501.
 - **Recorded evidence:** [`sample_qa.md`](sample_qa.md) shows a factual answer with its
   single citation **and** an opinion refusal, plus 5 guardrail cases.
@@ -218,7 +218,7 @@ Growwchat/
 
 | Deliverable | Where |
 |-------------|-------|
-| Working prototype / demo | Streamlit app (`ui/app.py`) + Render deploy + `sample_qa.md` |
+| Working prototype / demo | https://growwchat.onrender.com/ + `ui/app.py` + `sample_qa.md` |
 | Source list (5 URLs) | [`data/sources.md`](data/sources.md) |
 | README (setup, scope, limits) | this file |
 | Sample Q&A file | [`sample_qa.md`](sample_qa.md) |
