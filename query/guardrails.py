@@ -106,7 +106,9 @@ PERFORMANCE_PATTERNS = [
     r"\bcompound\w*\b",
     r"\bprofit\w*\b",
     r"\bappreciat\w*\b",
-    r"\bgains?\b",
+    # Bare "gains" also matches tax/statement phrasing (e.g. "capital gains
+    # statement"), which is not a performance request, so exclude that context.
+    r"(?<!capital )\bgains?\b",
     r"\bgave me\b",
     r"\bhow much did it (earn|give|make)\b",
     r"\bexpected return\b",

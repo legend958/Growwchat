@@ -463,6 +463,22 @@ not-found. For each query, report the retrieved top chunk's source vs expected s
 List any failures as known limits. Show me sample_qa.md.
 ```
 
+> **Evaluation note (this machine, verified):** `sample_qa.md` holds the committed
+> deliverable — **10 factual Q&A** (expense ratio ×2, exit load ×2, minimum SIP, ELSS
+> lock-in, riskometer, benchmark, fund managers, NAV) plus **5 negative cases** (opinion,
+> performance, PII, out-of-scope, statement-download) and a retrieval-sanity table. It is
+> reproduced by `tests/eval_sample_qa.py` (run `python -m tests.eval_sample_qa`), which drives
+> the real guarded pipeline and asserts: answer found, expected scheme cited, key fact present,
+> exactly one citation + footer, ≤3 sentences, and retrieval top-1 scheme match. Result:
+> **15/15** cases pass; retrieval scores 0.747–0.863. `tests/test_guardrails.py` adds a
+> regression suite (**37/37** — 16 must-catch, 14 must-not-catch, + refusal/postcheck
+> invariants). One guardrail bug was found and fixed this phase: the bare `\bgains?\b`
+> performance pattern wrongly flagged "capital gains statement" as a performance request; it
+> is now `(?<!capital )\bgains?\b` so tax/statement phrasing passes through to the not-found
+> path. Known limits documented in `sample_qa.md`: statement/account/KYC/tax/"how to invest"
+> topics are not in the 5 scheme pages → not found; the NFO-risk source quirk; a cosmetic
+> non-breaking hyphen (U+2011) in some answers; freshness footer reflects the ingestion date.
+
 ---
 
 ## Phase 9 — Packaging: README, Source List, Demo
