@@ -1,0 +1,67 @@
+# HDFC Small Cap Fund Direct Growth
+Source: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+Document type: scheme page
+
+## Scheme identity
+- Scheme name: HDFC Small Cap Fund Direct Growth
+- Fund house: HDFC Mutual Fund
+- AMC: HDFC
+- Super category: HDFC Small Cap Fund
+- Category: Equity
+- Sub-category: Small Cap
+- Plan: Direct
+- Scheme type: Growth
+- ISIN: INF179KA1RW5
+- Scheme code: 130503
+
+## Fees and charges
+- Expense ratio: 0.79%
+- Base expense ratio: 0.64%
+- Exit load: Exit load of 1% if redeemed within 1 year
+- Stamp duty: 0.005% (from July 1st, 2020)
+- Portfolio turnover: 6%
+
+## Minimum investments
+- Minimum investment (lumpsum): Rs 100
+- Minimum additional investment: Rs 100
+- Minimum SIP amount: Rs 100
+- SIP multiplier: Rs 1
+- Minimum withdrawal: Rs 100
+- Purchase multiplier: Rs 1
+- SIP allowed: Yes
+- Lumpsum allowed: Yes
+
+## Lock-in
+
+## Risk and benchmark
+- Riskometer (risk grade): Very High
+- NFO risk: Moderately High Riskometer
+- Benchmark: BSE 250 SmallCap TRI
+- Benchmark (full name): BSE 250 SmallCap Total Return Index
+
+## Fund details
+- Fund manager: Dhruv Muchhal, Chirag Setalvad
+- Launch date: 01-Jan-2013
+- Allotment date: 2013-01-01
+- Registrar and transfer agent: CAMS
+- NAV: Rs 154 (as of 09-Oct-2026)
+- AUM: Rs 40,800.81 Cr
+
+## Description
+The scheme seeks to provide long-term capital appreciation /income by investing predominantly in Small-Cap companies.
+Category note: Invests in stocks as per Contrarian investment strategy
+Category description: Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%.
+
+## Tax impact
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+## Fund house (AMC)
+- AMC name: HDFC Mutual Fund
+- Website: http://www.hdfcfund.com
+- Email: shareholders.relations@hdfcfund.com
+- Phone: 022 – 66316333
+
+## Official links
+- Scheme page (source): https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+- AMC page: https://groww.in/mutual-funds/amc/hdfc-mutual-funds
+- SID / scheme info: https://www.hdfcfund.com

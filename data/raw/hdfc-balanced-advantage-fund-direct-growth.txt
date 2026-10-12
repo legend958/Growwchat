@@ -1,0 +1,67 @@
+# HDFC Balanced Advantage Fund Direct Growth
+Source: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+Document type: scheme page
+
+## Scheme identity
+- Scheme name: HDFC Balanced Advantage Fund Direct Growth
+- Fund house: HDFC Mutual Fund
+- AMC: HDFC
+- Super category: HDFC Balanced Advantage Fund
+- Category: Hybrid
+- Sub-category: Dynamic Asset Allocation
+- Plan: Direct
+- Scheme type: Growth
+- ISIN: INF179K01WA6
+- Scheme code: 118968
+
+## Fees and charges
+- Expense ratio: 0.77%
+- Base expense ratio: 0.64%
+- Exit load: Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 year.
+- Stamp duty: 0.005% (from July 1st, 2020)
+- Portfolio turnover: 27%
+
+## Minimum investments
+- Minimum investment (lumpsum): Rs 100
+- Minimum additional investment: Rs 100
+- Minimum SIP amount: Rs 100
+- SIP multiplier: Rs 1
+- Minimum withdrawal: Rs 100
+- Purchase multiplier: Rs 1
+- SIP allowed: Yes
+- Lumpsum allowed: Yes
+
+## Lock-in
+
+## Risk and benchmark
+- Riskometer (risk grade): Very High
+- NFO risk: Moderately High Riskometer
+- Benchmark: NIFTY 50 Hybrid Composite Debt 50:50 Index
+- Benchmark (full name): NIFTY 50 Hybrid Composite Debt 50:50 Index
+
+## Fund details
+- Fund manager: Anil Bamboli, Arun Agarwal, Dhruv Muchhal, Nandita Menezes, Gopal Agrawal, Ihab Dalwai
+- Launch date: 01-Jan-2013
+- Allotment date: 2013-01-01
+- Registrar and transfer agent: CAMS
+- NAV: Rs 546 (as of 09-Oct-2026)
+- AUM: Rs 102,533.96 Cr
+
+## Description
+The Scheme seeks to provide long term capital appreciation / income from a dynamic mix of equity and debt investments.
+Category note: Invests in stocks as per Contrarian investment strategy
+Category description: Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%.
+
+## Tax impact
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+## Fund house (AMC)
+- AMC name: HDFC Mutual Fund
+- Website: http://www.hdfcfund.com
+- Email: shareholders.relations@hdfcfund.com
+- Phone: 022 – 66316333
+
+## Official links
+- Scheme page (source): https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+- AMC page: https://groww.in/mutual-funds/amc/hdfc-mutual-funds
+- SID / scheme info: https://www.hdfcfund.com

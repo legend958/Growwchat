@@ -1,0 +1,23 @@
+# Mutual Fund FAQ RAG chatbot — dependencies
+
+requests
+beautifulsoup4
+python-dotenv
+
+# Vector store (Phase 3+)
+chromadb
+
+# Embedding (Phase 3+)
+# NOTE: `sentence-transformers` is NOT used because this machine's Windows
+# Smart App Control (enforced) blocks scikit-learn's compiled DLLs, and
+# sentence-transformers imports scikit-learn on startup. We load the same
+# HF model, sentence-transformers/all-MiniLM-L6-v2, via transformers+torch
+# directly (see ingest/embed.py). transformers is pinned to 4.x because the
+# 5.x line imports scikit-learn for every model class.
+torch
+transformers==4.46.3
+tokenizers==0.20.3
+numpy
+
+# LLM (Phase 5) — Groq, OpenAI-compatible REST API, called via `requests`
+# (already a dependency) — no extra SDK needed. API key: GROQ_API_KEY in .env.

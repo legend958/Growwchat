@@ -1,0 +1,1 @@
+"""Query/UI package: retrieve (P4), generate (P5), guardrails (P6), and app (P7)."""

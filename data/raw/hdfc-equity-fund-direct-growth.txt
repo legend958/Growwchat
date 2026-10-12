@@ -1,0 +1,68 @@
+# HDFC Flexi Cap Direct Plan Growth
+Source: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+Document type: scheme page
+
+## Scheme identity
+- Scheme name: HDFC Flexi Cap Direct Plan Growth
+- Fund house: HDFC Mutual Fund
+- AMC: HDFC
+- Super category: HDFC Flexi Cap Direct Plan-Growth
+- Category: Equity
+- Sub-category: Flexi Cap
+- Plan: Direct
+- Scheme type: Growth
+- ISIN: INF179K01UT0
+- Scheme code: 118955
+
+## Fees and charges
+- Expense ratio: 0.75%
+- Base expense ratio: 0.57%
+- Exit load: Exit load of 1% if redeemed within 1 year
+
+- Stamp duty: 0.005% (from July 1st, 2020)
+- Portfolio turnover: 29%
+
+## Minimum investments
+- Minimum investment (lumpsum): Rs 100
+- Minimum additional investment: Rs 100
+- Minimum SIP amount: Rs 100
+- SIP multiplier: Rs 1
+- Minimum withdrawal: Rs 100
+- Purchase multiplier: Rs 1
+- SIP allowed: Yes
+- Lumpsum allowed: Yes
+
+## Lock-in
+
+## Risk and benchmark
+- Riskometer (risk grade): Very High
+- NFO risk: Moderately High
+- Benchmark: NIFTY 500 TRI
+- Benchmark (full name): NIFTY 500 Total Return Index
+
+## Fund details
+- Fund manager: Dhruv Muchhal, Amit Ganatra
+- Launch date: 01-Jan-2013
+- Allotment date: 2013-01-01
+- Registrar and transfer agent: CAMS
+- NAV: Rs 2,152 (as of 09-Oct-2026)
+- AUM: Rs 108,546.98 Cr
+
+## Description
+The scheme seeks to generate capital appreciation / income from a portfolio, predominantly invested in equity & equity related instruments.
+Category note: Invests in stocks as per Contrarian investment strategy
+Category description: Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%.
+
+## Tax impact
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+## Fund house (AMC)
+- AMC name: HDFC Mutual Fund
+- Website: http://www.hdfcfund.com
+- Email: shareholders.relations@hdfcfund.com
+- Phone: 022 – 66316333
+
+## Official links
+- Scheme page (source): https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+- AMC page: https://groww.in/mutual-funds/amc/hdfc-mutual-funds
+- SID / scheme info: https://www.hdfcfund.com

@@ -1,0 +1,68 @@
+# HDFC ELSS Tax Saver Fund Direct Plan Growth
+Source: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+Document type: scheme page
+
+## Scheme identity
+- Scheme name: HDFC ELSS Tax Saver Fund Direct Plan Growth
+- Fund house: HDFC Mutual Fund
+- AMC: HDFC
+- Super category: HDFC ELSS - Tax Saver Fund
+- Category: Equity
+- Sub-category: ELSS
+- Plan: Direct
+- Scheme type: Growth
+- ISIN: INF179K01YS4
+- Scheme code: 119060
+
+## Fees and charges
+- Expense ratio: 1.2%
+- Base expense ratio: 0.97%
+- Exit load: Nil
+- Stamp duty: 0.005% (from July 1st, 2020)
+- Portfolio turnover: 32%
+
+## Minimum investments
+- Minimum investment (lumpsum): Rs 500
+- Minimum additional investment: Rs 500
+- Minimum SIP amount: Rs 500
+- SIP multiplier: Rs 500
+- Minimum withdrawal: Rs 500
+- Purchase multiplier: Rs 500
+- SIP allowed: Yes
+- Lumpsum allowed: Yes
+
+## Lock-in
+- Lock-in period: 3 year(s)
+
+## Risk and benchmark
+- Riskometer (risk grade): Very High
+- NFO risk: Moderately High
+- Benchmark: NIFTY 500 TRI
+- Benchmark (full name): NIFTY 500 Total Return Index
+
+## Fund details
+- Fund manager: Amar Kalkundrikar, Dhruv Muchhal
+- Launch date: 01-Jan-2013
+- Allotment date: 2013-01-01
+- Registrar and transfer agent: CAMS
+- NAV: Rs 1,410 (as of 09-Oct-2026)
+- AUM: Rs 14,948.74 Cr
+
+## Description
+The scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments.
+Category note: Invests in stocks as per Contrarian investment strategy
+Category description: Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%.
+
+## Tax impact
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+## Fund house (AMC)
+- AMC name: HDFC Mutual Fund
+- Website: http://www.hdfcfund.com
+- Email: shareholders.relations@hdfcfund.com
+- Phone: 022 – 66316333
+
+## Official links
+- Scheme page (source): https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+- AMC page: https://groww.in/mutual-funds/amc/hdfc-mutual-funds
+- SID / scheme info: https://www.hdfcfund.com

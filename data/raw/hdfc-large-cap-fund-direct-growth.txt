@@ -1,0 +1,67 @@
+# HDFC Large Cap Fund Direct Growth
+Source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+Document type: scheme page
+
+## Scheme identity
+- Scheme name: HDFC Large Cap Fund Direct Growth
+- Fund house: HDFC Mutual Fund
+- AMC: HDFC
+- Super category: HDFC Large Cap Fund
+- Category: Equity
+- Sub-category: Large Cap
+- Plan: Direct
+- Scheme type: Growth
+- ISIN: INF179K01YV8
+- Scheme code: 119018
+
+## Fees and charges
+- Expense ratio: 1.04%
+- Base expense ratio: 0.85%
+- Exit load: Exit load of 1% if redeemed within 1 year
+- Stamp duty: 0.005% (from July 1st, 2020)
+- Portfolio turnover: 18%
+
+## Minimum investments
+- Minimum investment (lumpsum): Rs 100
+- Minimum additional investment: Rs 100
+- Minimum SIP amount: Rs 100
+- SIP multiplier: Rs 1
+- Minimum withdrawal: Rs 100
+- Purchase multiplier: Rs 1
+- SIP allowed: Yes
+- Lumpsum allowed: Yes
+
+## Lock-in
+
+## Risk and benchmark
+- Riskometer (risk grade): Very High
+- NFO risk: Moderately High Riskometer
+- Benchmark: NIFTY 100 TRI
+- Benchmark (full name): NIFTY 100 Total Return Index
+
+## Fund details
+- Fund manager: Rahul Baijal, Dhruv Muchhal
+- Launch date: 01-Jan-2013
+- Allotment date: 2013-01-01
+- Registrar and transfer agent: CAMS
+- NAV: Rs 1,153 (as of 09-Oct-2026)
+- AUM: Rs 37,293.95 Cr
+
+## Description
+The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.
+Category note: Invests in stocks as per Contrarian investment strategy
+Category description: Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%.
+
+## Tax impact
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+## Fund house (AMC)
+- AMC name: HDFC Mutual Fund
+- Website: http://www.hdfcfund.com
+- Email: shareholders.relations@hdfcfund.com
+- Phone: 022 – 66316333
+
+## Official links
+- Scheme page (source): https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+- AMC page: https://groww.in/mutual-funds/amc/hdfc-mutual-funds
+- SID / scheme info: https://www.hdfcfund.com
